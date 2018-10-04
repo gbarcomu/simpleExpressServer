@@ -1,0 +1,11 @@
+{
+  "name": "covaultticketsendpoint",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "~4.10.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
